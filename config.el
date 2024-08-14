@@ -3,8 +3,8 @@
       user-mail-address "sakurapetgirl@live.com")
 (setq doom-font (font-spec :family "JetBrainsMono Nerd Font" :size 12 :weight 'regular))
 
-(setq doom-theme-dark 'doom-one
-      doom-theme-light 'doom-one-light
+(setq doom-theme-dark 'ef-dream
+      doom-theme-light 'ef-day
       doom-keyboard-type 'jp
       display-line-numbers-type 'relative
       dashboard-startup-banner (expand-file-name "logo.png" doom-user-dir)
